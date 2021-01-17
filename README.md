@@ -9,10 +9,10 @@ pyenv install 3.6.5
 pyenv local 3.6.5  # Activate Python 3.6.5 for the current project
 
 2- Simply use pip to install the PyInquirer package, pprint, and make sure you have json package and requests.
-.. code:: shell
+
 
     pip3 install PyInquirer
-.. code:: shell
+
 
     pip3 install pprint
 
@@ -20,7 +20,7 @@ pyenv local 3.6.5  # Activate Python 3.6.5 for the current project
 This is a public board for the purpose of testing this code so feel free to edit.
 
 4- Run the code:
-.. code:: shell
+
 
     python3 newcard.py
 
