@@ -3,10 +3,12 @@
 This CLI programme will ask to enter the card name, choose a list, and add labels to a new card.
 
 ## Installation
-1- This code needs python3.6.5
+1- This code needs python3.6.5, if you dont have this python version, you can create a virtual environments using pyenv:
 
-pyenv install 3.6.5
-pyenv local 3.6.5  # Activate Python 3.6.5 for the current project
+
+    pyenv install 3.6.5
+    pyenv local 3.6.5 # Activate Python 3.6.5 for the current project
+
 
 2- Simply use pip to install the PyInquirer package, pprint, and make sure you have json package and requests.
 
